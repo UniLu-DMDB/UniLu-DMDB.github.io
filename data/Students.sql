@@ -27,4 +27,4 @@ INSERT INTO Diplomas VALUES (2, 2, 'Honorary Doctorate', 'KTH', 2002);
 INSERT INTO Diplomas VALUES (3, 2, 'Honorary Doctorate', 'Cambridge', 2009);
 INSERT INTO Diplomas VALUES (4, 4, 'MBA', 'Duke', 1988);
 INSERT INTO Diplomas VALUES (5, 5, 'Honorary Doctorate', 'Harvard', 2017);
-INSERT INTO Diplomas VALUES (6, NULL, 'Funny Award', 'My University', 2023);
+INSERT INTO Diplomas VALUES (6, NULL, 'Funny Award', 'My University', 2021);
